@@ -38,4 +38,4 @@ Project status: **Finished**
 This project inspired me to improve my SQL skills for their application to a real world database for successful analysis.
 
 ## Contact
-Feel free to contact , drop an mail to **maithilymanohar2@gmail.com**
+Feel free to contact , drop an mail to **manoahrmaithily@gmail.com**
